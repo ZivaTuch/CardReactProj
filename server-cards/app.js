@@ -23,7 +23,7 @@ const cards = [
     },
     address: {
       state: "TLV",
-      country: "Israerl",
+      country: "Israel",
       street: "Dizingof",
       houseNumber: 1,
       city: "Tel Aviv",
