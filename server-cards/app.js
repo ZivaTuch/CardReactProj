@@ -24,7 +24,7 @@ const cards = [
     address: {
       state: "TLV",
       country: "Israel",
-      street: "Dizingof",
+      street: "Hadassa",
       houseNumber: 1,
       city: "Tel Aviv",
       zip: 1312,
@@ -47,10 +47,10 @@ const cards = [
     },
     address: {
       state: "TLV",
-      country: "Israerl",
-      street: "Dizingof",
+      country: "Israel",
+      street: "kfar yam",
       houseNumber: 2,
-      city: "Tel Aviv",
+      city: "mevo choron",
       zip: 1312,
     },
     bizNumber: 222222,
@@ -71,8 +71,8 @@ const cards = [
     },
     address: {
       state: "TLV",
-      country: "Israerl",
-      street: "Dizingof",
+      country: "Israel",
+      street: "hadassa",
       houseNumber: 3,
       city: "Tel Aviv",
       zip: 1312,
