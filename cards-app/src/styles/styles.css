@@ -1,0 +1,30 @@
+.root {
+    flex-grow: 1;
+    padding: 10px;
+  }
+  
+  .paper {
+    padding: 10px;
+    margin: auto;
+    max-width: 80%;
+  }
+  
+  .smallImage {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .mapSectionStyle {
+    width: 65%;
+    height: 400px; /* כיוון להסתכלות, עליך להתאים לגובה הרלוונטי */
+    margin: 5px;
+  }
+  
+  .mapPageStyle {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  
