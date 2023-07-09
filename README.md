@@ -4,19 +4,19 @@
 
 2. to upload the server go to the terminial and do the following...
    
-      a.  #cd server-cards
+#      a.  cd server-cards
    
-      b.  #npm i
+#      b.  npm i
    
-      c.  #node app
+#      c.  node app
 
 4. to load the website on http://localhost:3000 go to the terminal and do the following...
    
-     a.  #cd cards-app
+#     a.  cd cards-app
    
-     b.  #npm i
+#     b.  npm i
    
-     c.  #npm start
+#     c.  npm start
 
    
 
