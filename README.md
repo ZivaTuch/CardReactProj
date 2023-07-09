@@ -4,7 +4,7 @@
 
 2. to upload the server go to the terminial and do the following...
    
-###      a.  cd server-cards
+####      a.  cd server-cards
    
 #      b.  npm i
    
